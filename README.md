@@ -3,7 +3,7 @@ Complete set of PI templates for EVE Online. The design strategy is to mine your
 
 Screenshots from left to right. 
 
-Miners +P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories (Barren/Temperate Planets)
+Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories (Barren/Temperate Planets)
 
 <img src="https://github.com/user-attachments/assets/1e225447-8125-4815-b8f1-11bc87d1bdf2" width="250">
 <img src="https://github.com/user-attachments/assets/cd8b122f-eea0-47b5-b0de-53dc8befa1f6" width="250">
