@@ -24,3 +24,6 @@ Miners +P1 Factories (All Planets), P2/P3 Factories (All PLanets), P4 Factories 
 2. The json files are touchy and can be corrupted easily. Edit them at your own risk and make backups.
 3. ALL templates will be available on ALL toons as long as they are in the folder above.
 4. Yes all routes are configured. Setup your extractor heads and hit start, drop you PI in the starport and your factories turn on. WOOT WOOT!
+5. PI takes into account planet radius. These templates were made at a specific radius. I have not tested these on different sizes. However, if you run into power issues on your miners, reduce the amount of extractor heads you are using.
+6. P2/P3 factories can be used on any planet, Gas planets are not recommended due to their size, but it can be done in a pinch.
+7. P4 factories can only be used on Barren and Temperate planets.
