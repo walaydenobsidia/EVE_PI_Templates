@@ -14,7 +14,7 @@ Miners +P1 Factories (All Planets), P2/P3 Factories (All PLanets), P4 Factories 
 
 <img src="https://github.com/user-attachments/assets/119a17c1-eb65-4fde-9832-2f397eb53ad0" width="480">
 
-### How to use theses templates.
+### How to use these templates.
 1. Navigate to `/users/<user>/Documents/EVE/PlanetaryInteractionTemplates`
 2. Unzip and paste all json files in the folder above.
 3. Refresh your templates menu in game.
