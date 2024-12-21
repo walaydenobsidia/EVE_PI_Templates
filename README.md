@@ -17,6 +17,54 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 ### Skill Requirements
 ... in development, coming soon TM ...
 
+### Template PG and CPU Usage
+<table>
+<tr><th>Command Center Capacity </th><th>Miner Template</th></tr>
+<tr><td>
+
+| Level | CPU | PG |
+|-|-|-|
+| 0 | 1675 | 6000 |
+| 1 | 7057 | 9000 |
+| 2 | 12136 | 12000 |
+| 3 | 17215 | 15000 |
+| 4 | 21315 | 17000 |
+| 5 | 25415 | 19000 |
+
+</td><td>
+
+| Structures | CPU | PG |
+|-|-|-|
+| Extractors | 800 | 5200 |
+| Basic Reactors | 800 | 3200 |
+| Storage | 500 | 700 |
+| Starport | 3600 | 700 |
+| Total | 5700 | 9800 |
+| L5 Remainder | 19715 | 9200 |
+
+</td></tr> </table>
+
+| | CPU | PG |
+|-|-|-|
+| Extractor Heads x1 | 110 | 550 |
+| Extractor Heads x14 | 1540 | 7700 |
+| Extractor Heads x16 | 1760 | 8800 |
+
+| Radius | Link Length | CPU | PG |
+|-|-|-|-|
+| 2500 | 31 | 105 | 154 |
+| 5000 | 61 | 140 | 196 |
+| 7500 | 91 | 168 | 238 |
+| 10000 | 121 | 203 | 280 |
+| 12500 | 151 | 231 | 322 |
+| 15000 | 181 | 266 | 364 |
+| 17500 | 211 | 294 | 406 |
+| 20000 | 241 | 329 | 448 |
+| 22500 | 271 | 357 | 490 |
+| 25000 | 301 | 392 | 532 |
+| 27500 | 331 | 420 | 574 |
+| 30000 | 361 | 455 | 616 |
+
 ### How to use these templates.
 1. Navigate to `/users/<user>/Documents/EVE/PlanetaryInteractionTemplates`
 2. Unzip and paste all json files in the folder above.
