@@ -9,6 +9,10 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 <img src="https://github.com/user-attachments/assets/cd8b122f-eea0-47b5-b0de-53dc8befa1f6" width="250">
 <img src="https://github.com/user-attachments/assets/fca8822a-5f55-4399-8d7d-c728d10a63e8" width="250">
 
+## Future Plans
+1. 1 Extractor Mining Variant
+2. P0 -> P2 Mining Variant
+
 ### Dependencies
 1. Currently this feature is in beta and will need to be enabled in the `Feature Previews` ESC menu setting.
 
