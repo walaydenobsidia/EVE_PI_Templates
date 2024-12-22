@@ -42,6 +42,7 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 | Storage | 500 | 700 |
 | Starport | 3600 | 700 |
 | Total | 5700 | 9800 |
+| | | |
 | L5 Remainder | 19715 | 9200 |
 | Extractor Heads x1 | 110 | 550 |
 | Extractor Heads x14 | 1540 | 7700 |
