@@ -80,7 +80,7 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 </td></tr> </table>
 
 <table>
-<tr><th>P2/P3 Factory</th><th>12x Links</th></tr>
+<tr><th>P2/P3 Factory</th><th>12x Links</th><th>24x Links</th></tr>
 <tr>
 <td>
   
@@ -91,10 +91,17 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 | Total | 9600 | 9100 |
 | CCU5 Remainder | 15815 | 9900 |
 
+| Structures | CPU | PG |
+|-|-|-|
+| Adv. Factory x24 | 12000 | 16800 |
+| Starport | 3600 | 700 |
+| Total | 15600 | 17500 |
+| CCU5 Remainder | 9815 | 1500 |
+
 </td>
 <td>
   
-| Radius | Link Length | CPU | PG |
+| Radius | Length | CPU | PG |
 |-|-|-|-|
 |2500|31|255|176|
 |5000|61|327|230|
@@ -109,9 +116,27 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 |27500|331|975|716|
 |30000|361|1047|770|
 
+</td>
+<td>
+  
+| Radius | Length | CPU | PG |
+|-|-|-|-|
+|2500|31|509|352|
+|5000|61|653|460|
+|7500|91|797|568|
+|10000|121|941|676|
+|12500|151|1085|784|
+|15000|181|1229|892|
+|17500|211|1373|1000|
+|20000|241|1517|1108|
+|22500|271|1661|1216|
+|25000|301|1805|1324|
+|27500|331|1949|1432|
+|30000|361|2093|1540|
+
 </td></tr> </table>
 
-### Factory Starport Max Inputs
+### Factory - Max Inputs
 The inputs below will allow you to max fill your starports, and when finished there will be no left overs.
 <table>
   <tr>
@@ -130,7 +155,7 @@ The inputs below will allow you to max fill your starports, and when finished th
   </tr> 
 </table>
 
-### Factory Starport Max Ouputs
+### Factory - Max Ouputs
 Once your factories are finished process your imports you will be left with these tiered up units.
 <table>
   <tr>
