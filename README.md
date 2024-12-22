@@ -14,8 +14,14 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 
 <img src="https://github.com/user-attachments/assets/119a17c1-eb65-4fde-9832-2f397eb53ad0" width="480">
 
-### Skill Requirements
-... in development, coming soon TM ...
+### Skill Recommendations
+| Skill Names | Miner | Factory |
+|-|-|-|
+| Command Center Upgrades | V | V |
+| Interplanetary Consolidation | IV | V |
+| Planetology | V | 0 |
+| Advanced Planetology | IV | 0 |
+| Total SP | 2,199,295 | 2,048,000 |
 
 ### Mining Template PG and CPU Usage
 Based on the numbers below, with CCU5, x16 Extractor heads, the mining template will be PG overloaded on planets larger than 15k. To use this template on larger planets, reduce your extractor head count.
