@@ -43,7 +43,7 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 | Starport | 3600 | 700 |
 | Total | 5700 | 9800 |
 | | | |
-| L5 Remainder | 19715 | 9200 |
+| CCU5 Remainder | 19715 | 9200 |
 | Extractor Heads x1 | 110 | 550 |
 | Extractor Heads x10 | 1100 | 5500 |
 | Extractor Heads x12 | 1320 | 6600 |
