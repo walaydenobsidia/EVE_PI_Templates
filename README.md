@@ -103,7 +103,7 @@ The inputs below will allow you to max fill your starports, and when finished th
 </table>
 
 ### Factory Starport Max Ouputs
-The inputs below will allow you to max fill your starports, and when finished there will be no left overs.
+Once your factories are finished process your imports you will be left with these tiered up units.
 <table>
   <tr>
     <th>P2 (2 inputs)</th>
