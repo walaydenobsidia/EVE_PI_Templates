@@ -27,8 +27,8 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 | Advanced Planetology | IV | 0 |
 | Total SP | 2,199,295 | 2,048,000 |
 
-### Mining Template PG and CPU Usage
-Based on the numbers below, with CCU5, x16 Extractor heads, the mining template will be PG overloaded on planets larger than 15k. To use this template on larger planets or with CCU4, reduce your extractor head count.
+### Best Estimate Template PG and CPU Usage
+
 | Level | CPU | PG |
 |-|-|-|
 | 0 | 1675 | 6000 |
@@ -78,6 +78,8 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 |30000|361|611|450|
 
 </td></tr> </table>
+
+*WARNING* Based on the numbers above, with CCU5, x16 Extractor heads, the mining template will be PG overloaded on planets larger than 15k. To use this template on larger planets or with CCU4, reduce your extractor head count.
 
 <table>
 <tr><th>P2/P3 Factory</th><th>1 Factory 12x Links</th><th>2 Factory 24x Links</th></tr>
@@ -136,6 +138,8 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 |30000|361|2093|1540|
 
 </td></tr> </table>
+
+*WARNING* Based on the numbers above, with CCU5, 2 factories on 1 planet, your command center will be overloaded on planets with a radius large than 12,500 km. Remove factories to accomodate larger planets.
 
 <table>
 <tr><th>P4 Factory</th><th>1 Factory 8x Links</th><th>2 Factory 16x Links</th></tr>
