@@ -17,7 +17,8 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 ### Skill Requirements
 ... in development, coming soon TM ...
 
-### Template PG and CPU Usage
+### Mining Template PG and CPU Usage
+Based on the numbers below, with CCU5, x16 Extractor heads, the mining template will be PG overloaded on planets larger than 15k. To use this template on larger planets, reduce your extractor head count.
 <table>
 <tr><th>Command Center Capacity </th><th>Miner Template</th><th>7x Links</th></tr>
 <tr>
