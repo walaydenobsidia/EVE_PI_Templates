@@ -113,3 +113,4 @@ The inputs below will allow you to max fill your starports, and when finished th
 6. P2/P3 factories can be used on any planet, Gas planets are not recommended due to their size, but it can be done in a pinch.
 7. P4 factories can only be used on Barren and Temperate planets.
 8. You can place 2 factories on each planet with CCU V.
+9. If you would like to use these templates with lower CCU, you will need to edit the value `"CmdCtrLv": 5,` in the json to the CCU value of your toon. Save and refresh your templates in game and they will be updated.
