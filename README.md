@@ -28,12 +28,7 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 | Total SP | 2,199,295 | 2,048,000 |
 
 ### Mining Template PG and CPU Usage
-Based on the numbers below, with CCU5, x16 Extractor heads, the mining template will be PG overloaded on planets larger than 15k. To use this template on larger planets, reduce your extractor head count.
-<table>
-<tr><th>Command Center Capacity </th><th>Miner Template</th><th>7x Links</th></tr>
-<tr>
-<td>
-
+Based on the numbers below, with CCU5, x16 Extractor heads, the mining template will be PG overloaded on planets larger than 15k. To use this template on larger planets or with CCU4, reduce your extractor head count.
 | Level | CPU | PG |
 |-|-|-|
 | 0 | 1675 | 6000 |
@@ -42,10 +37,11 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 | 3 | 17215 | 15000 |
 | 4 | 21315 | 17000 |
 | 5 | 25415 | 19000 |
-
-</td>
+<table>
+<tr><th>Miner Template</th><th>7x Links</th></tr>
+<tr>
 <td>
-
+  
 | Structures | CPU | PG |
 |-|-|-|
 | Extractors | 800 | 5200 |
@@ -65,7 +61,7 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 
 </td>
 <td>
-
+  
 | Radius | Link Length | CPU | PG |
 |-|-|-|-|
 | 2500 | 31 | 105 | 154 |
