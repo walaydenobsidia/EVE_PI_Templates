@@ -70,6 +70,22 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 
 </td></tr> </table>
 
+### Factory Starport Max Inputs
+#### P2 (2 inputs)
+- 26,280 per input
+
+#### P3 (2 inputs)
+- 6,660 per input
+
+#### P3 (3 inputs)
+- 4,440 per input
+
+#### P4 (3 inputs)
+- 1,110 per input
+
+#### P4 (3 inputs P3/P1)
+- 1,110 per P3, 17,520 P1
+
 ### How to use these templates.
 1. Navigate to `/users/<user>/Documents/EVE/PlanetaryInteractionTemplates`
 2. Unzip and paste all json files in the folder above.
