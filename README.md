@@ -95,10 +95,9 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 | Structures | CPU | PG |
 |-|-|-|
 | Adv. Factory x24 | 12000 | 16800 |
-| Starport | 3600 | 700 |
-| Total | 15600 | 17500 |
-| CCU4 Remainder | 5715 | -500 |
-| CCU5 Remainder | 9815 | 1500 |
+| Starport x2 | 5200 | 1400 |
+| Total | 17200 | 18200 |
+| CCU5 Remainder | 8215 | 800 |
 
 </td>
 <td>
@@ -135,6 +134,64 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 |25000|301|1805|1324|
 |27500|331|1949|1432|
 |30000|361|2093|1540|
+
+</td></tr> </table>
+
+<table>
+<tr><th>P4 Factory</th><th>1 Factory 8x Links</th><th>2 Factory 16x Links</th></tr>
+<tr>
+<td>
+  
+| Structures | CPU | PG |
+|-|-|-|
+| High-Tech Factory x8 | 8800 | 3200 |
+| Starport | 3600 | 700 |
+| Total | 12400 | 3900 |
+| CCU3 Remainder | 4815 | 11100 |
+| CCU5 Remainder | 13015 | 15100 |
+
+| Structures | CPU | PG |
+|-|-|-|
+| High-Tech Factory x16 | 17600 | 6400 |
+| Starport x2 | 5200 | 1400 |
+| Total | 22800 | 7800 |
+| CCU5 Remainder | 2615 | 11200 |
+
+</td>
+<td>
+  
+| Radius | Length | CPU | PG |
+|-|-|-|-|
+|2500|31|170|118|
+|5000|61|218|154|
+|7500|91|266|190|
+|10000|121|314|226|
+|12500|151|362|262|
+|15000|181|410|298|
+|17500|211|458|334|
+|20000|241|506|370|
+|22500|271|554|406|
+|25000|301|602|442|
+|27500|331|650|478|
+|30000|361|698|514|
+
+</td>
+<td>
+  
+| Radius | Length | CPU | PG |
+|-|-|-|-|
+|2500|31|340|235|
+|5000|61|436|307|
+|7500|91|532|379|
+|10000|121|628|451|
+|12500|151|724|523|
+|15000|181|820|595|
+|17500|211|916|667|
+|20000|241|1012|739|
+|22500|271|1108|811|
+|25000|301|1204|883|
+|27500|331|1300|955|
+|30000|361|1396|1027|
 
 </td></tr> </table>
 
