@@ -102,6 +102,26 @@ The inputs below will allow you to max fill your starports, and when finished th
   </tr> 
 </table>
 
+### Factory Starport Max Ouputs
+The inputs below will allow you to max fill your starports, and when finished there will be no left overs.
+<table>
+  <tr>
+    <th>P2 (2 inputs)</th>
+    <th>P3 (2 inputs)</th>
+    <th>P3 (3 inputs)</th>
+    <th>P4 (3 inputs)</th>
+    <th>P4 (3 inputs P3/P1)</th>
+  </tr>
+  <tr>
+    <td>3,285</td>
+    <td>1,998</td>
+    <td>1,332</td>
+    <td>185</td>
+    <td>229</td>
+  </tr> 
+</table>
+
+
 
 ### How to use these templates.
 1. Navigate to `/users/<user>/Documents/EVE/PlanetaryInteractionTemplates`
