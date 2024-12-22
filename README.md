@@ -50,6 +50,8 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 | Starport | 3600 | 700 |
 | Total | 5700 | 9800 |
 | | | |
+| | | |
+| | | |
 | CCU5 Remainder | 19715 | 9200 |
 | Extractor Heads x1 | 110 | 550 |
 | Extractor Heads x10 | 1100 | 5500 |
