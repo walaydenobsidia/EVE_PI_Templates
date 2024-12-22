@@ -98,7 +98,7 @@ The inputs below will allow you to max fill your starports, and when finished th
     <td>6,660 - P2</td>
     <td>4,440 - P2</td>
     <td>1,110 - P3</td>
-    <td>1,110 - P3, 17,520 - P1</td>
+    <td>1,374 - P3, 9,160 - P1</td>
   </tr> 
 </table>
 
