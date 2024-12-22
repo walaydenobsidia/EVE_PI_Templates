@@ -45,6 +45,8 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 | | | |
 | L5 Remainder | 19715 | 9200 |
 | Extractor Heads x1 | 110 | 550 |
+| Extractor Heads x10 | 1100 | 5500 |
+| Extractor Heads x12 | 1320 | 6600 |
 | Extractor Heads x14 | 1540 | 7700 |
 | Extractor Heads x16 | 1760 | 8800 |
 
