@@ -80,7 +80,7 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 </td></tr> </table>
 
 <table>
-<tr><th>P2/P3 Factory</th><th>12x Links</th><th>24x Links</th></tr>
+<tr><th>P2/P3 Factory</th><th>1 Factory 12x Links</th><th>2 Factory 24x Links</th></tr>
 <tr>
 <td>
   
@@ -89,6 +89,7 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 | Adv. Factory x12 | 6000 | 8400 |
 | Starport | 3600 | 700 |
 | Total | 9600 | 9100 |
+| CCU2 Remainder | 2536 | 2900 |
 | CCU5 Remainder | 15815 | 9900 |
 
 | Structures | CPU | PG |
@@ -96,6 +97,7 @@ Based on the numbers below, with CCU5, x16 Extractor heads, the mining template 
 | Adv. Factory x24 | 12000 | 16800 |
 | Starport | 3600 | 700 |
 | Total | 15600 | 17500 |
+| CCU4 Remainder | 5715 | -500 |
 | CCU5 Remainder | 9815 | 1500 |
 
 </td>
