@@ -19,8 +19,9 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 
 ### Template PG and CPU Usage
 <table>
-<tr><th>Command Center Capacity </th><th>Miner Template</th></tr>
-<tr><td>
+<tr><th>Command Center Capacity </th><th>Miner Template</th><th>7x Links</th></tr>
+<tr>
+<td>
 
 | Level | CPU | PG |
 |-|-|-|
@@ -31,7 +32,8 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 | 4 | 21315 | 17000 |
 | 5 | 25415 | 19000 |
 
-</td><td>
+</td>
+<td>
 
 | Structures | CPU | PG |
 |-|-|-|
@@ -45,7 +47,8 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 | Extractor Heads x14 | 1540 | 7700 |
 | Extractor Heads x16 | 1760 | 8800 |
 
-</td></tr> </table>
+</td>
+<td>
 
 | Radius | Link Length | CPU | PG |
 |-|-|-|-|
@@ -61,6 +64,8 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 | 25000 | 301 | 392 | 532 |
 | 27500 | 331 | 420 | 574 |
 | 30000 | 361 | 455 | 616 |
+
+</td></tr> </table>
 
 ### How to use these templates.
 1. Navigate to `/users/<user>/Documents/EVE/PlanetaryInteractionTemplates`
