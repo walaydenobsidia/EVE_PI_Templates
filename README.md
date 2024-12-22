@@ -112,3 +112,4 @@ The inputs below will allow you to max fill your starports, and when finished th
 5. PI takes into account planet radius. These templates were made at a specific radius. I have not tested these on different sizes. However, if you run into power issues on your miners, reduce the amount of extractor heads you are using.
 6. P2/P3 factories can be used on any planet, Gas planets are not recommended due to their size, but it can be done in a pinch.
 7. P4 factories can only be used on Barren and Temperate planets.
+8. You can place 2 factories on each planet with CCU V.
