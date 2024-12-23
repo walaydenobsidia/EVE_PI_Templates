@@ -13,6 +13,11 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 1. 1 Extractor Mining Variant
 2. P0 -> P2 Mining Variant
 
+### How to use these templates.
+1. Navigate to `/users/<user>/Documents/EVE/PlanetaryInteractionTemplates`
+2. Unzip and paste all json files in the folder above.
+3. Refresh your templates menu in game.
+
 ### Dependencies
 1. Currently this feature is in beta and will need to be enabled in the `Feature Previews` ESC menu setting.
 
@@ -236,13 +241,6 @@ Once your factories are finished process your imports you will be left with thes
     <td>229</td>
   </tr> 
 </table>
-
-
-
-### How to use these templates.
-1. Navigate to `/users/<user>/Documents/EVE/PlanetaryInteractionTemplates`
-2. Unzip and paste all json files in the folder above.
-3. Refresh your templates menu in game.
 
 ### FAQ/Troubleshooting
 1. You will notice that the factories will be specified as Barren only. You can indeed use these on other planets, when you apply the template, the system will auto convert the factories to the planet specific types needed.
