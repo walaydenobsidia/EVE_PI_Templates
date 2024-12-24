@@ -252,3 +252,4 @@ Once your factories are finished process your imports you will be left with thes
 7. P4 factories can only be used on Barren and Temperate planets.
 8. You can place 2 factories on each planet with CCU V.
 9. If you would like to use these templates with lower CCU, you will need to edit the value `"CmdCtrLv": 5,` in the json to the CCU value of your toon. Save and refresh your templates in game and they will be updated.
+10. When using the mining templates you will find that the routes out of the extractors to the storage unit are missing. The is expected behavior because of the way CCP designed the system. You will need to set your extractor heads and then create your P0 routes back to the storage unit. No other user intervention should be required.
