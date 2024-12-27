@@ -144,7 +144,7 @@ Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories
 
 </td></tr> </table>
 
-*WARNING* Based on the numbers above, with CCU5, 2 factories on 1 planet, your command center will be overloaded on planets with a radius large than 12,500 km. Remove factories to accomodate larger planets.
+*WARNING* Based on the numbers above, with CCU5, 2 factories on 1 planet, your command center will be overloaded on planets with a radius large than 12,500 km. Remove factories to accommodate larger planets.
 
 <table>
 <tr><th>P4 Factory</th><th>1 Factory 8x Links</th><th>2 Factory 16x Links</th></tr>
