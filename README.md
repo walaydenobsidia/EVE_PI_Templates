@@ -3,15 +3,18 @@ Complete set of PI templates for EVE Online. The design strategy is to mine your
 
 Screenshots from left to right. 
 
-Miners + P1 Factories (All Planets), P2/P3 Factories (All Planets), P4 Factories (Barren/Temperate Planets)
+00 Miners + P1 Factories (All Planets), Lowsec Miners + P1 Factories (All Planets)
 
+<img src="https://github.com/user-attachments/assets/abc32fc5-9aac-419c-850f-817fcbbef982" width="250">
 <img src="https://github.com/user-attachments/assets/1e225447-8125-4815-b8f1-11bc87d1bdf2" width="250">
+
+P2/P3 Factories (All Planets), P4 Factories (Barren/Temperate Planets)
+
 <img src="https://github.com/user-attachments/assets/cd8b122f-eea0-47b5-b0de-53dc8befa1f6" width="250">
 <img src="https://github.com/user-attachments/assets/fca8822a-5f55-4399-8d7d-c728d10a63e8" width="250">
 
 ## Future Plans
-1. 1 Extractor Mining Variant
-2. P0 -> P2 Mining Variant
+1. P0 -> P2 Mining Variant
 
 ### How to use these templates.
 1. Navigate to `/users/<user>/Documents/EVE/PlanetaryInteractionTemplates`
@@ -253,3 +256,4 @@ Once your factories are finished process your imports you will be left with thes
 8. You can place 2 factories on each planet with CCU V.
 9. If you would like to use these templates with lower CCU, you will need to edit the value `"CmdCtrLv": 5,` in the json to the CCU value of your toon. Save and refresh your templates in game and they will be updated.
 10. When using the mining templates you will find that the routes out of the extractors to the storage unit are missing. The is expected behavior because of the way CCP designed the system. You will need to set your extractor heads and then create your P0 routes back to the storage unit. No other user intervention should be required. https://github.com/DalShooth/EVE_PI_Templates/issues/2
+11. 00 Miners can be used in Lowsec, however you may find that you do not produce enough P0 to keep your P1 Factories running 24/7.
