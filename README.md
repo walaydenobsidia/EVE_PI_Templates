@@ -207,43 +207,32 @@ P2/P3 Factories (All Planets), P4 Factories (Barren/Temperate Planets)
 
 </td></tr> </table>
 
-### Factory - Max Inputs
-The inputs below will allow you to max fill your starports, and when finished there will be no left overs.
-<table>
-  <tr>
-    <th>P2 (2 inputs)</th>
-    <th>P3 (2 inputs)</th>
-    <th>P3 (3 inputs)</th>
-    <th>P4 (3 inputs)</th>
-    <th>P4 (3 inputs P3/P1)</th>
-  </tr>
-  <tr>
-    <td>26,280 - P1</td>
-    <td>6,660 - P2</td>
-    <td>4,440 - P2</td>
-    <td>1,110 - P3</td>
-    <td>1,374 - P3, 9,160 - P1</td>
-  </tr> 
-</table>
+### Factory - Max Input/Outputs
+1 Factory requires 3000 units of P0 every 30 minutes to then output 20 units of P1
 
-### Factory - Max Ouputs
-Once your factories are finished process your imports you will be left with these tiered up units.
-<table>
-  <tr>
-    <th>P2 (2 inputs)</th>
-    <th>P3 (2 inputs)</th>
-    <th>P3 (3 inputs)</th>
-    <th>P4 (3 inputs)</th>
-    <th>P4 (3 inputs P3/P1)</th>
-  </tr>
-  <tr>
-    <td>3,285</td>
-    <td>1,998</td>
-    <td>1,332</td>
-    <td>185</td>
-    <td>229</td>
-  </tr> 
-</table>
+|	Factories	|	Max Input Per Day	|	Max Output Per Day	|
+|	-	|	-	|	-	|
+|	1	|	144,000	|	960	|
+|	2	|	288,000	|	1,920	|
+|	3	|	432,000	|	2,880	|
+|	**4**	|	**576,000**	|	**3,840**	|
+|	5	|	720,000	|	4,800	|
+|	6	|	864,000	|	5,760	|
+|	7	|	1,008,000	|	6,720	|
+|	**8**	|	**1,152,000**	|	**7,680**	|
+|	9	|	1,296,000	|	8,640	|
+|	10	|	1,440,000	|	9,600	|
+|	11	|	1,584,000	|	10,560	|
+|	**12**	|	**1,728,000**	|	**11,520**	|
+|	13	|	1,872,000	|	12,480	|
+|	14	|	2,016,000	|	13,440	|
+|	15	|	2,160,000	|	14,400	|
+|	16	|	2,304,000	|	15,360	|
+
+Miner info based on this table 
+- To keep your LS Miners running 24/7, your 2 extractors need to produce 576,000 P0 per day
+- To keep your 00 Miners running 24/7, your 1 extractor needs to produce 1,152,000 P0 per day.
+- Your storage unit can only hold 2,400,000 units of P0 at any given time
 
 ### FAQ/Troubleshooting
 1. You will notice that the factories will be specified as Barren only. You can indeed use these on other planets, when you apply the template, the system will auto convert the factories to the planet specific types needed.
