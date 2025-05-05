@@ -1,5 +1,5 @@
 ## EVE PI Templates
-Complete set of PI templates for EVE Online. The design strategy is to mine your P0 and tier it up to P1. Then take your P1 and ship it to P2/P3/P4 factories to efficiently produce PI with the least amount of headache as possible.
+Complete set of PI templates for EVE Online. The design strategy is to mine your P0 and tier it up to P1. Then take your P1 and ship it to P2/P3/P4 factories to efficiently produce PI with the least amount of headache as possible. You will find there isn't a mining template for every planets for every type. This is expected as CCP designed the system to auto switch the planet specific structures to the planet your trying to place the template on. Barring the minable material is available on said planet.
 
 Screenshots from left to right. 
 
