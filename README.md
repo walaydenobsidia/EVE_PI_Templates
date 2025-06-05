@@ -21,11 +21,6 @@ P2/P3 Factories (All Planets), P4 Factories (Barren/Temperate Planets)
 2. Unzip and paste all json files in the folder above.
 3. Refresh your templates menu in game.
 
-### Dependencies
-1. Currently this feature is in beta and will need to be enabled in the `Feature Previews` ESC menu setting.
-
-<img src="https://github.com/user-attachments/assets/119a17c1-eb65-4fde-9832-2f397eb53ad0" width="480">
-
 ### Skill Recommendations
 | Skill Names | Miner | Factory |
 |-|-|-|
